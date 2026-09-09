@@ -1,0 +1,35 @@
+# Copyright & Takedown Policy
+
+Zenthi is a platform for community-shared 3D-printable car part files. Every uploader confirms at submission that they created the file, or otherwise have the right to share it, and grants Zenthi a license to host and redistribute it.
+
+## How this works
+
+**Zenthi does not independently verify the ownership or authorship of every file.** With community-submitted content at scale, that isn't possible. The system relies on uploader attestation, admin review, and reports from rights holders.
+
+If you believe a file on Zenthi infringes your copyright, or was uploaded without the proper rights, report it.
+
+## Reporting a concern
+
+**[→ Submit a copyright report](https://zenthi3d.lovable.app/copyright-policy)**
+
+You'll be asked for:
+
+| Field | What's needed |
+| --- | --- |
+| Your name | Full name |
+| Your email | Where we'll follow up if we need more information |
+| Part or file in question | The part name, or a link to the part listing |
+| Description of the concern | What the file is, what right you hold, and why you believe it was shared without permission |
+
+Submitting also requires confirming a good-faith belief that the use of the file is not authorised by the copyright owner, its agent, or the law, and that the information in the report is accurate.
+
+## What happens next
+
+- When a valid report is received, the file in question is **promptly removed or access-disabled** while the matter is reviewed.
+- If more information is needed, you'll be contacted at the email address provided in the report.
+- Contributors who repeatedly, or clearly, upload files they have no right to share may be **permanently removed** from contributing to the platform.
+
+## Related
+
+- [Community Guidelines](/community-guidelines): upload scope and what admins check before approving
+- [Security Policy](./SECURITY.md): for vulnerability reports, which are handled separately
