@@ -9,7 +9,7 @@ Zenthi is a free, community-run project. There's no security team and no bounty 
 Report privately through either:
 
 - **GitHub Security Advisories**: use the `Report a vulnerability` button under the repo's **Security** tab (Preferred)
-- **Email**: `your_email_or_smthn@email.com`
+- **Email**: (working on it)
 
 Please include:
 
